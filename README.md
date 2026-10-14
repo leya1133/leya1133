@@ -13,6 +13,16 @@
 
 ---
 
+### ⭐ Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🚀 [**TSI – Test Your Idea**](https://github.com/leya1133/test-your-idea) | 5 CrewAI agents validate a startup idea in parallel and return a Go / No-Go verdict | CrewAI · FastAPI · asyncio · RAG |
+| 🛡️ [**CVE Pulse**](https://github.com/leya1133/cve-pulse) | AI security assistant: hybrid RAG over NVD, CISA KEV & GitHub Advisories with LLM summaries and risk scores | LLM · RAG · pgvector · FastAPI |
+| 🚦 [**FifthWave – Smart Road Safety**](https://github.com/leya1133/fifthwave-smart-road-safety) | TEKNOFEST 2026: driver behavior detection, plate reading and vehicle tracking | YOLOv11 · DeepSORT · OpenCV |
+| 🧾 [**Fraud Detection Assistant**](https://github.com/RUAMELHEM/FraudDetectionAssistant) | SalamHack: invoice & payment fraud detection for freelancers | Python · ML · FastAPI · React |
+| 🌐 [**Portfolio**](https://github.com/leya1133/leya1133.github.io) | My editorial-style portfolio site · [live](https://leya1133.github.io) | HTML · CSS · JS |
+
 ### 🧠 What I work on
 
 - **LLMs & RAG** — led the development of *Tahweel Boy*, an English/Arabic AI assistant for fintech services at **Tahweel**
