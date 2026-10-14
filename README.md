@@ -17,7 +17,7 @@
 
 - **LLMs & RAG** — led the development of *Tahweel Boy*, an English/Arabic AI assistant for fintech services at **Tahweel**
 - **Multi-agent systems** — built [**TSI – Test Your Idea**](https://github.com/leya1133/test-your-idea), an idea validation platform with 5 expert CrewAI agents (parallel runs, ~25 s per analysis)
-- **AI for security** — [an LLM + RAG assistant](https://github.com/cve-intelligence-assistant/cve-pulse) that summarizes, classifies and prioritizes CVE vulnerability records
+- **AI for security** — [an LLM + RAG assistant](https://github.com/leya1133/cve-pulse) that summarizes, classifies and prioritizes CVE vulnerability records
 - **Computer vision** — a [YOLOv11 module](https://github.com/leya1133/fifthwave-smart-road-safety) that detects driver behavior (phone use, smoking, seat belt) from video
 
 ### 🏆 Highlights
